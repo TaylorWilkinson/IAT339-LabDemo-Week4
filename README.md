@@ -1,10 +1,4 @@
 # IAT339-LabDemo-Week4
 GitKraken and GitHub Demo in IAT339 Lab
 
-These are Taylor's changes right here right now.
-
-Sherry changed it
-
-2nd change by T.W.
-
-hey hey heyyyyyyy, i changed line ten. :3 :3 :3 ^0^
+I deleted all the codes
